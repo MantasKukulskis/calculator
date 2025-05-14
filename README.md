@@ -4,7 +4,7 @@
 
 A simple and functional Calculator application designed to perform basic arithmetic operations quickly and efficiently.
 
-Site published at: https://github.com/YourUsername/Calculator-App
+Site published at: https://github.com/MantasKukulskis/calculator
 Design: !by mentorė Gabija
 🎯 Project features/goals
 
@@ -34,7 +34,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
     Clone the repo
 
-git clone https://github.com/YourUsername/Calculator-App.git
+git clone https://github.com/MantasKukulskis/calculator.git
 
 Install NPM packages
 
@@ -53,7 +53,7 @@ Run the server
 There are no tests for this project.
 👨‍💻 Authors
 
-Your Name: GitHub
+Mantas: (https://github.com/MantasKukulskis)
 ⚠️ License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
