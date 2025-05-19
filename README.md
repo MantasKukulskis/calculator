@@ -5,7 +5,7 @@
 A simple and functional Calculator application designed to perform basic arithmetic operations quickly and efficiently.
 
 Site published at: https://github.com/MantasKukulskis/calculator
-Design: !by mentorė Gabija
+
 🎯 Project features/goals
 
     Github Pages
